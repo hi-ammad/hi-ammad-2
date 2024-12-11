@@ -1,11 +1,13 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/4629f890-bf15-48fd-987b-e16b28645c43">
+  <img src="https://github.com/user-attachments/assets/b4b54998-c3ec-4952-a824-bd66ea4092cd">
   <br><br><br>
-  <img src="https://github.com/user-attachments/assets/da3b08ab-7e11-475d-a083-6bf9cfdd9425">
+
+  <img src="https://github.com/user-attachments/assets/63302beb-0b1b-4561-b8da-9c7ae6928baf">
 </div>
+
 <!-- rainbow hr /> -->
-<img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
+<img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hi-ammad/hi-ammad/blob/main/snk/github-contribution-grid-snake-dark.svg">
@@ -19,7 +21,7 @@
 
 ## ⚡️ A Few Quick **Facts**
 
-<img height="310" src="https://github.com/user-attachments/assets/a00f3d02-3360-4630-bfb3-386e65489d35" align=right>
+<img height="310" src="https://github.com/user-attachments/assets/4ca37e0c-7fb5-4870-844c-8dc0ac8f8b07" align=right>
 
 - ⚡️ 1% 🏆 Linkedin 10x ᴛᴏᴘ ᴠᴏɪᴄᴇ
 - 🥇 ᴄʀᴇᴅᴇɴᴛɪᴀʟꜱ ꜰʀᴏᴍ ©Mᴇᴛᴀ | ©Gᴏᴏɢʟᴇ
@@ -36,16 +38,16 @@
 - 🎓 I hold a degree in Software Engineering.
 - I have successfully uploaded over 30 libraries to jsr.io
 - 🚀 Currently, I work as a Full Stack Software Engineer at Nextbridge
+![image](https://github.com/user-attachments/assets/b3a91407-f4e9-49df-ad60-7fb822a101cc)
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/d232958b-b3b2-44b3-8b44-98ac826c352c" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/b3a91407-f4e9-49df-ad60-7fb822a101cc" align="center">
   &nbsp;Github Recent Activity
 </h2>
 
 <svg viewBox="0 0 24 24" id="meteor-icon-kit__solid-activity" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill-rule="evenodd" clip-rule="evenodd" d="M23.9072 13.5C23.169 19.4195 18.1194 24 12 24C5.88057 24 0.830982 19.4195 0.0928345 13.5H6.99999C7.50152 13.5 7.96987 13.2493 8.24807 12.8321L10.144 9.98816L11.5204 18.2466C11.744 19.5879 13.4938 19.9635 14.2481 18.8321L17.8028 13.5H23.9072ZM0.0928345 10.5C0.830982 4.58053 5.88057 0 12 0C18.1194 0 23.169 4.58053 23.9072 10.5H17C16.4985 10.5 16.0301 10.7507 15.7519 11.1679L13.856 14.0118L12.4796 5.7534C12.256 4.4121 10.5062 4.03652 9.75192 5.16795L6.19722 10.5H0.0928345Z" fill="#fff" style="--darkreader-inline-fill: #181a1b;" data-darkreader-inline-fill=""></path></g></svg>
 
 <!--START_SECTION:activity-->
-
 1. 🎉 Merged PR [#8](https://github.com/hi-ammad/hi-ammad/pull/8) in [hi-ammad/hi-ammad](https://github.com/hi-ammad/hi-ammad)
 2. 💪 Opened PR [#8](https://github.com/hi-ammad/hi-ammad/pull/8) in [hi-ammad/hi-ammad](https://github.com/hi-ammad/hi-ammad)
 3. 🎉 Merged PR [#7](https://github.com/hi-ammad/hi-ammad/pull/7) in [hi-ammad/hi-ammad](https://github.com/hi-ammad/hi-ammad)
@@ -53,7 +55,7 @@
 <!--END_SECTION:activity-->
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/cc7c36ae-d5f4-46b5-9eb8-7cdc63c15670" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/f0398e09-7744-4107-9a16-3b1c4292530e" align="center">
   &nbsp;Recently Credly Badges
 </h2>
 
@@ -77,14 +79,14 @@
 [![IBM DevOPS](https://assets.ammad.dev/certificates-svg/ibm-devops.svg)]()
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/483951b6-7f12-46dd-b3ac-009f4cfab236" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/5f2b933f-403d-4c2a-9944-cc1e6f83ed3a" align="center">
   &nbsp;Global Experience
 </h2>
 
 I've had the pleasure of working with clients from all over the world, ranging from small businesses to large corporations. My diverse experience has equipped me with the skills to tackle various challenges and deliver high-quality solutions.
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/59904ba5-24be-4e66-9476-7d21273d6e1d" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/1a77e69a-bc75-4406-8701-173fa15c5639" align="center">
   &nbsp;Google Moma's Badges
 </h2>
 <!-- my-badges start -->
@@ -119,7 +121,7 @@ I've had the pleasure of working with clients from all over the world, ranging f
 <!-- my-badges end -->
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/d0d8b9c1-52f8-4566-98bb-2345e7f6a1a1" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/4a3d5592-a14a-4a5f-b75f-caeeadf21533" align="center">
   &nbsp;My DevSetup
 </h2>
 
@@ -137,7 +139,7 @@ I've had the pleasure of working with clients from all over the world, ranging f
 
 <!-- spotify hr /> -->
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/559a48ed-5196-4f3c-b057-002e7adb7876" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/8868f4f0-68fc-4c63-ae21-a36112225ed4" align="center">
   &nbsp;Currently Listening
 </h2>
 
@@ -148,8 +150,9 @@ I've had the pleasure of working with clients from all over the world, ranging f
 <img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
 
 <!-- Display Skills-->
+
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/c1a59d9a-273f-4c67-8013-8d291c5daa63" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/a425cc45-f702-4bb6-b17f-24d54a5565ac" align="center">
   &nbsp;The Skills (That Define Me)
 </h2>
 
@@ -158,7 +161,7 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 [![My Skills](https://skillicons.dev/icons?i=deno,bun,anaconda,androidstudio,apple,arch,atom,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,codepen,css,debian,discord,bots,django,docker,fastapi,fediverse,figma,flask,gcp,git,github,githubactions,gitlab,go,graphql,heroku,html,idea,ipfs,java,js,jenkins,jquery,kali,kubernetes,latex,linux,lua,md,mastodon,mongodb,neovim,netlify,nginx,nodejs,notion,npm,obsidian,planetscale,pnpm,powershell,pycharm,py,pytorch,redhat,redis,regex,replit,sqlite,stackoverflow,selenium,svg,tensorflow,ts,ubuntu,vercel,vim,visualstudio,vscode,vscodium,vue,webpack,windows,workers&perline=15)](https://skillicons.dev)
 
 <!-- rainbow hr /> -->
-<img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
+<img src="https://github.com/user-attachments/assets/fd6c0d57-6e93-4572-a4b2-fc8b3cdd59bc" width="100%" height="1px">
 
 <!-- ![Welcome To My Playground](https://github.com/user-attachments/assets/3e9c56ff-5b69-4452-8de0-dd9df8f98b82) -->
 
@@ -172,8 +175,9 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 <img height="260" src="https://leetcard.jacoblin.cool/hi-ammad?theme=dark&font=Livvic&ext=activity" />
 </a>
 &nbsp;
+
 <a href="https://github.com/hi-ammad/convoychat">
-  <img height="260" src="https://github.com/user-attachments/assets/3565330b-385c-4b8e-a5a7-ae15834400f1" />
+  <img height="260" src="https://github.com/user-attachments/assets/7997e1f9-cada-4bde-ab1c-fa99e8d301ac" />
 </a>
 <!--   [![Ammad's Leetcode Stats](https://leetcard.jacoblin.cool/hi-ammad?theme=dark&font=Livvic&ext=activity)](https://leetcode.com/hi-ammad) -->
 <!-- <a href="https://leetcode.com/hi-ammad"> <img src="https://leetcard.jacoblin.cool/hi-ammad?theme=dark&font=Livvic&ext=activity"></a>
@@ -197,6 +201,11 @@ _Here is a list of numerous technologies I have come across, but it does not imp
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hi_ammad&custom_title=Wakatime%20Stats%20Mine&langs_count=10&hide_border=true">
  <img height="260" src="https://github-readme-stats.vercel.app/api/wakatime?username=hi_ammad&custom_title=Wakatime%20Stats%20Mine&langs_count=10&theme=github_dark&hide_border=true" />
 </picture>
+
+
+<!-- rainbow hr /> -->
+<img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
+
 
 <!--START_SECTION:waka-->
 
@@ -268,8 +277,9 @@ Last Updated on 11/12/2024 21:31:56 UTC
 
 <!--END_SECTION:waka-->
 
+
 <!-- rainbow hr /> -->
-<img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
+<img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <!-- Display GitHub profile details, stats, and streak -->
 
@@ -302,7 +312,7 @@ Last Updated on 11/12/2024 21:31:56 UTC
 </p>
 
 <!-- rainbow hr /> -->
-<img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
+<img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <h2>
   <img height="36" src="https://github.com/user-attachments/assets/3418cfc6-5965-4718-af44-3e85ab7d9738" align="center">
@@ -326,7 +336,7 @@ Last Updated on 11/12/2024 21:31:56 UTC
 <a href="https://github.com/hi-ammad?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <!-- rainbow hr /> -->
-<img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
+<img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <h2>
   <img height="36" src="https://github.com/user-attachments/assets/a1913b34-7c18-4eb4-95ab-466733de4145" align="center">
@@ -342,7 +352,7 @@ _my website got 100% lightbox score._ <a href="https://ammad.dev">https://ammad.
   </a>
 </p>
 
-[![Lighthouse Score - 100 Friendly and the best](https://github.com/user-attachments/assets/7080e991-1f59-43f9-a5b0-d9dfba0d0f1c)](https://ammad.dev)
+[![Lighthouse Score - 100 Friendly and the best](https://github.com/user-attachments/assets/d9c4dae6-40b0-4d74-9b18-614396ca6c02)](https://ammad.dev)
 
 ```php
 syed                          ┌───────────────────────┐             ┌──────────────┐
