@@ -8,9 +8,9 @@
 <img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hi-ammad/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="hi-ammad/snk/github-contribution-grid-snake.svg">
-  <img width="100%" alt="github contribution grid snake animation" src="hi-ammad/snk/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hi-ammad/hi-ammad/blob/main/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hi-ammad/hi-ammad/blob/main/snk/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://github.com/hi-ammad/blob/main/snk/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="end">
