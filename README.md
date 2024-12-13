@@ -86,7 +86,8 @@
 I've had the pleasure of working with clients from all over the world, ranging from small businesses to large corporations. My diverse experience has equipped me with the skills to tackle various challenges and deliver high-quality solutions.
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/1a77e69a-bc75-4406-8701-173fa15c5639" align="center">
+  
+  <img height="36" src="https://github.com/user-attachments/assets/9e95c080-122b-4916-95f6-732c75f2d92d" align="center">
   &nbsp;Google Moma's Badges
 </h2>
 <!-- my-badges start -->
@@ -150,9 +151,8 @@ I've had the pleasure of working with clients from all over the world, ranging f
 <img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
 
 <!-- Display Skills-->
-
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/a425cc45-f702-4bb6-b17f-24d54a5565ac" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/13ba3f0f-5837-4ea7-9920-159864abfe66" align="center">
   &nbsp;The Skills (That Define Me)
 </h2>
 
