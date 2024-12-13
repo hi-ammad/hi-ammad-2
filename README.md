@@ -146,10 +146,8 @@ I've had the pleasure of working with clients from all over the world, ranging f
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312gagscmqgghjo7sd2yn3dpjnji&unique={true|1|on|yes})
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <!-- rainbow hr /> -->
 <img src="https://github.com/user-attachments/assets/7d7cd854-c148-460d-8c7e-5cb31f77ca16" width="100%" height="1px">
-
 <!-- Display Skills-->
 <h2>
   <img height="36" src="https://github.com/user-attachments/assets/13ba3f0f-5837-4ea7-9920-159864abfe66" align="center">
@@ -163,11 +161,10 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 <!-- rainbow hr /> -->
 <img src="https://github.com/user-attachments/assets/fd6c0d57-6e93-4572-a4b2-fc8b3cdd59bc" width="100%" height="1px">
 
-<!-- ![Welcome To My Playground](https://github.com/user-attachments/assets/3e9c56ff-5b69-4452-8de0-dd9df8f98b82) -->
-
 <!-- leetcode  /> -->
+
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/0e9881c6-d405-4a51-86a5-6ba62a419c8e" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/4407b883-2698-44a4-9fc9-40c3081e9ab6" align="center">
   &nbsp;Leetcode (Problem Solver)
 </h2>
 
@@ -179,14 +176,9 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 <a href="https://github.com/hi-ammad/convoychat">
   <img height="260" src="https://github.com/user-attachments/assets/7997e1f9-cada-4bde-ab1c-fa99e8d301ac" />
 </a>
-<!--   [![Ammad's Leetcode Stats](https://leetcard.jacoblin.cool/hi-ammad?theme=dark&font=Livvic&ext=activity)](https://leetcode.com/hi-ammad) -->
-<!-- <a href="https://leetcode.com/hi-ammad"> <img src="https://leetcard.jacoblin.cool/hi-ammad?theme=dark&font=Livvic&ext=activity"></a>
-![Top Programmer Joke](https://github.com/user-attachments/assets/3565330b-385c-4b8e-a5a7-ae15834400f1) -->
-
-<!-- wakatime/languages  /> -->
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/2a84646a-09e3-4c5e-b177-90fb23549ef1" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/83d8dfc3-8bfa-4fa6-bcf9-72d9f4c8267f" align="center">
   &nbsp;Ammads's Waktime/Languages Stats
 </h2>
 
@@ -282,9 +274,8 @@ Last Updated on 11/12/2024 21:31:56 UTC
 <img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <!-- Display GitHub profile details, stats, and streak -->
-
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/e5ed4904-7e5f-40f5-b0cc-1f3382734e1c" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/5f63aed2-0408-47bf-b3bc-8d70dbe67f53" align="center">
   &nbsp;Github Stats
 </h2>
 
@@ -315,7 +306,7 @@ Last Updated on 11/12/2024 21:31:56 UTC
 <img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/3418cfc6-5965-4718-af44-3e85ab7d9738" align="center">
+  <img height="36" src="https://github.com/user-attachments/assets/d71008df-487c-4987-b4a6-32f4da723f8a" align="center">
   &nbsp;Recent OpenSource
 </h2>
 
