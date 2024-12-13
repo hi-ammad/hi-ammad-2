@@ -330,8 +330,8 @@ Last Updated on 11/12/2024 21:31:56 UTC
 <img src="https://github.com/user-attachments/assets/1ad3effe-7139-49a4-9dc3-0bfb5f4f32cc" width="100%" height="1px">
 
 <h2>
-  <img height="36" src="https://github.com/user-attachments/assets/a1913b34-7c18-4eb4-95ab-466733de4145" align="center">
-  &nbsp;Google Lightbox Score 💯
+  <img height="36" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-100-percent-farm-flaticons-lineal-color-flat-icons-2.png" align="center">
+  &nbsp;Google Lightbox Score
 </h2>
 
 _my website got 100% lightbox score._ <a href="https://ammad.dev">https://ammad.dev</a>
