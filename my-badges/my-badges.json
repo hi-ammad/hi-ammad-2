@@ -1,0 +1,198 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/a52691df8db4ccb21a033119012b6ad42dafd405\"><strong>a</strong>52691df8db4ccb21a033119012b6ad42dafd405</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 1177 times)\n2. merge (used 867 times)\n3. readme.md (used 847 times)\n4. add (used 694 times)\n5. request (used 626 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/91026ba366302e48794d3b50bf2df336bfd1d981\">91026ba</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/2d8720442e78d6722120a20ef77d1c26cc07cd33\">2d87204</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/cb5556ca0b31db582a54c87f5e85c0904500f0bd\">cb5556c</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/cb012c1f37c168bf953415545eda866c3b767f37\">cb012c1</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad.github.io/commit/21cad1235c4ea224d813a20e1c0757182419730f\">21cad12</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad.github.io/commit/6d827be22a88b42e75a8f7e48da98bf95df3a651\">6d827be</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/cfdcff74ed1090028a936a906186cceef2f995ad\">cfdcff7</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/9b0ffbf9f82ea213aff02bdb7d05aa47224741b7\">9b0ffbf</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/481fdd85a8786a6a95021e80a971e967f40f0bac\">481fdd8</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/5f65f4be8fcc149f7f4d401de60c29e419e82e25\">5f65f4b</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/87200e031b0849284a1770ba8531b88a2a4a915b\">87200e0</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/33c0649ad983612ad8d86181ad67c0ad14734b73\">33c0649</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/udemy-2.0-nextjs/commit/590b21bc9cf339f0bf824c3e6dcb204b7dba37fc\">590b21b</a>\n- <a href=\"https://github.com/hi-ammad/udemy-2.0-nextjs/commit/ce172af6d991650a61a934cb5364f46a37c52c7c\">ce172af</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/236ef5b353af7c57c1af51e0544de4cbe73a3bd4\">236ef5b</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/998329ae8846423cb5242847912c59ced80ba72e\">998329a</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/26f21b1708e1bba292c93ea2996c50f1ed2534a5\">26f21b1</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/2db870669c481509782f2a79e287cc26a5fe37a8\">2db8706</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/6aabe4242a7c7311bac2fac5a26559a3f470f15f\">6aabe42</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/7d05510baccf6675dab34305694120dcd6096ef0\">7d05510</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/163696baf4426cd6be2997814dc300efc100f60a\">163696b</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/6ea441516119d7482ec53f66c9294c2d84c7beaa\">6ea4415</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/8614116966fe1b5cb5b4fa2560cfb424696bc9ab\">8614116</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/e59650949cf19bd6b840595cea524c14654f247d\">e596509</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/8cb02cd25374f3fa7a230bbd84c25c2baaab4b5c\">8cb02cd</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/8e8b97845ed594ed7b94f0d66c750b31df9b417f\">8e8b978</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/4bfaa55dd0e579ebcbbbe137b424984ecc795104\">4bfaa55</a>\n- <a href=\"https://github.com/hi-ammad/awesome-github-profile-readme/commit/44065a0dd35c1528915d78e693213498bb0aade0\">44065a0</a>\n- <a href=\"https://github.com/hi-ammad/awesome-github-profile-readme/commit/17dc6d313d34e7abe24a7fe85478ad685b975d83\">17dc6d3</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/e54a11ae5b7f3f476db3de538c684e40cc7252d2\">e54a11a</a>\n- <a href=\"https://github.com/hi-ammad/hi-ammad/commit/88cfa72e260f3ab17a8dc321042dceeb6485587e\">88cfa72</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/ab63ce6df841cf5324dd4b50c8719c1145897ccf\"><strong>ab</strong>63ce6df841cf5324dd4b50c8719c1145897ccf</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/abc853852532010604919a378b68107c97ba91d9\"><strong>abc</strong>853852532010604919a378b68107c97ba91d9</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/hi-ammad/nu-de_rana/commit/2f58d5fc2c6fd550b52d4fcafe1a72521aab4a05\">2f58d5fc2c6fd550b52d4f<strong>cafe</strong>1a72521aab4a05</a>\n- <a href=\"https://github.com/hi-ammad/f_fgt_church_flutter/commit/17f1afdfd5d88cdcde1cafe74d40abe74502b449\">17f1afdfd5d88cdcde1<strong>cafe</strong>74d40abe74502b449</a>\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/6094cafe363c8d135fa71a4c3d5eedcbba53a3a5\">6094<strong>cafe</strong>363c8d135fa71a4c3d5eedcbba53a3a5</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/snap-repo/commit/225606e1bd86a7de1b2072584575f7be276f27c4\">225606e</a>: chore: fix test permissions",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/f6aae5f9a31ccead0b4a61905861609271dc1cc0\">f6aae5f</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/23b23a967b3c03854601b746e83ac7821075f227\">23b23a9</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/92c03f4c27c4cc7e2789165a64b64b26d53d9d03\">92c03f4</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/hi-ammad/hack-github-graph/commit/4666c73deada75cd15fabe4dbbd92210e17ef519\">4666c73<strong>dead</strong>a75cd15fabe4dbbd92210e17ef519</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/wajeeha_couture_astro/commit/6f0ff59f630a406f275ee6b3dc006d5e570add2b\">6f0ff59</a>: fix-temporary: types-build-error by disabling ts\n- <a href=\"https://github.com/hi-ammad/wajeeha_couture_astro/commit/6efea78b1f58ed13fc223e91a52e0b28e6656b0c\">6efea78</a>: fix-temporary: types-build-error by disabling ts",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/portfolio-cloudflare-nextjs/commit/e4c782021ce2884db4a40367501a97978f7c8c6b\">e4c7820</a>: fix: stack page light-mode ui\n- <a href=\"https://github.com/hi-ammad/portfolio-cloudflare-nextjs/commit/3455dfbb3b5f77b6bd2de26d4b7b8bcc3d94967a\">3455dfb</a>: fix: project  page light-mode ui\n- <a href=\"https://github.com/hi-ammad/portfolio-cloudflare-nextjs/commit/19f82f56b2d3ee02ac43a76cd4a953cff498b09d\">19f82f5</a>: fix: article  page light-mode ui\n- <a href=\"https://github.com/hi-ammad/portfolio-cloudflare-nextjs/commit/20a7f35fd1822361da47802e28dd2765bffd6cf6\">20a7f35</a>: fix: home page light-mode ui\n- <a href=\"https://github.com/hi-ammad/portfolio-cloudflare-nextjs/commit/9f1717338f415c911a01501794bf46506b83d3da\">9f17173</a>: fix: about page light-mode ui",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/f_mts_react/commit/c92bad0c0d2f8947ce77aaa6863bb05445859649\">c92bad0</a>: fix ui\n- <a href=\"https://github.com/hi-ammad/f_mts_react/commit/c76103d0ba5b2acfe8af58ffa0e658e34a494027\">c76103d</a>: fixes\n- <a href=\"https://github.com/hi-ammad/f_mts_react/commit/abf54c2ea0ee28ebc744b1be7eb0ee27fdadbb8d\">abf54c2</a>: fix",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/c6be62313a17effab41699c4795e27ac93133911\">c6be623</a>: fix: languageRouter Auth Problem\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/89fb217c5dc918075b32c285213fbff0771b7e02\">89fb217</a>: fix: populate getMe api  - following/followers\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/c37a111e8ce161980e2632391ed0174d2bcfdc9a\">c37a111</a>: fix: populate job_type in JobProduct\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/7cfed667bd223e7925c12453da120910abe6b13d\">7cfed66</a>: fix: bugs/job_type missin etc\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/012ad6478ddac9d396c5d994d5bfd65ac1325a92\">012ad64</a>: fix: minor bugs\n- <a href=\"https://github.com/hi-ammad/f_my_terrace_backend/commit/f802ed9751c21951275399614ae144b789103655\">f802ed9</a>: fix: lot of things -",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 12 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/22727d7f67712393c055441eb1952b8dbcafa4ae\">22727d7</a>: fix: bugs\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/45fbcfe820c94a066d666bdd8161b0e83e04a5ae\">45fbcfe</a>: fix: scraping\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/d3eca0521763961c91401bc2413f44c5c10290d3\">d3eca05</a>: fix: stripe bug\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/8a055747d4588af7ffb952f77ddf28182c36ecc4\">8a05574</a>: fix: ...\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/a15e4b1bffcf252ba0f3c33ce9b4bb4516e5c48b\">a15e4b1</a>: fix:bugs\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/752d1593a696a72497ae14db982946541cc9a86d\">752d159</a>: fix:bugs\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/db5662100b1f38ff038b1fd9e2fc04a903e3b617\">db56621</a>: fix:bugs\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/0ad4f433e151231d7513e7a283732a443f22ca93\">0ad4f43</a>: fix: ...\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/a4882b7db18b917e21ab578e03b76b38e154c0dd\">a4882b7</a>: fix: ...\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/b21e203d515756f20eebc9aeeec61d0aaf127671\">b21e203</a>: fix: ...\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/e93935c99ec225c184d361f24f4be9b4bb6ffa51\">e93935c</a>: fix: bugs\n- <a href=\"https://github.com/hi-ammad/f_fanbox_backend_bunjs/commit/c57ba9e606140962084d98959eb0faae65acbef0\">c57ba9e</a>: fix: readme",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/react-final-ibm/commit/08164f4643384b9283e596d7c9365b26f31cb62c\">08164f4</a>: fix: add vercel routes\n- <a href=\"https://github.com/hi-ammad/react-final-ibm/commit/87040daeede8c65aa54fd5ab52aed63db1227d6d\">87040da</a>: fix: add vercel routes\n- <a href=\"https://github.com/hi-ammad/react-final-ibm/commit/3d9f5bf65cba7f9c92d8f5ee623c6010b2c2f1eb\">3d9f5bf</a>: fix: add vercel routes\n- <a href=\"https://github.com/hi-ammad/react-final-ibm/commit/a72d7317a36287511ce6ecafc748e0f48467432a\">a72d731</a>: fix: add vercel routes",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/wajeeha_couture_astro/commit/6efea78b1f58ed13fc223e91a52e0b28e6656b0c\">6efea78</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/f_slaybids_react/commit/930253a5aa38120f759dda9e56e504304407fbae\">930253a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/JessicaLim8/JessicaLim8/issues/2372\">#2372</a>: wordcloud|add|GolangXx\n- <a href=\"https://github.com/vercel/next.js/issues/70960\">#70960</a>: Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/portfolio-v4-astro/commit/93638b46ccc23297922e4caadb4f168a36c92ee4\">93638b4</a>\n- <a href=\"https://github.com/hi-ammad/f_dring_rider_flutter/commit/a219ab207e95d58c2305a5e4c6d6fdc955ee5a30\">a219ab2</a>\n- <a href=\"https://github.com/hi-ammad/f_dring_user_flutter/commit/4760e9815b5416628c70c0856bf306dad534b5a4\">4760e98</a>\n- <a href=\"https://github.com/hi-ammad/f_bible_trivia_admin_flutter/commit/3f15ab63048d54fd84c6cc8ea9a6126b23fac774\">3f15ab6</a>\n- <a href=\"https://github.com/hi-ammad/f_hoyzee_admin_react/commit/7003c261b7199e2cdb444930cb6d741d4aa6c40d\">7003c26</a>\n- <a href=\"https://github.com/hi-ammad/f_bible_trivia_admin_flutter/commit/65cd88cce67593ca8f58a56bfbb77a22104d0f0d\">65cd88c</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/snap-repo/commit/f3c4eefa6475970ad46655bad54115ecfc624ef4\">f3c4eef</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/76064b318244176df7ad9e6ddeb404797759cd51\">76064b3</a>\n- <a href=\"https://github.com/hi-ammad/udemy-2.0-nextjs/commit/60ac4f9e1322c09c9774485673ce3596566396e8\">60ac4f9</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/c1487822a9be97c9e4eab5e4d817a5b58bbf6158\">c148782</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/b92cb306448008aebc42406c7ba0591a690e22db\">b92cb30</a>\n- <a href=\"https://github.com/hi-ammad/blog-template/commit/4211555a34a120541a88a44451f63edd9b260eda\">4211555</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hi-ammad/snap-repo/commit/24f84d45f472c3134c2d19d8da0fc509341af799\">24f84d4</a>\n- <a href=\"https://github.com/hi-ammad/snap-repo/commit/01f710d1d96dd478f4fe16ce8587b627afbb40a0\">01f710d</a>\n- <a href=\"https://github.com/hi-ammad/build-grep-challenge-codecraft/commit/8b5c6b53a80579e66f2ae1b532b90eaaea1f0d6a\">8b5c6b5</a>\n- <a href=\"https://github.com/hi-ammad/build-grep-challenge-codecraft/commit/f4d4da770a8143dccdebaf140e9363c776bcbe56\">f4d4da7</a>\n- <a href=\"https://github.com/hi-ammad/build-grep-challenge-codecraft/commit/b1784afffaeea992f079b77c66be0e6f0f73a3af\">b1784af</a>\n- <a href=\"https://github.com/hi-ammad/build-grep-challenge-codecraft/commit/f0a165e554d460f290acb3cca80119fbe20f94a9\">f0a165e</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537326902\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327006\">🎉</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327068\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327135\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327226\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327288\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327361\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327438\">👍</a>\n* <a href=\"https://github.com/hi-ammad/hack-github-graph/issues/593#issuecomment-2537327521\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 30 my own repositories.",
+    "body": "- <a href=\"https://github.com/hi-ammad/3_store_iraq\">hi-ammad/3_store_iraq</a>\n- <a href=\"https://github.com/hi-ammad/aaqib\">hi-ammad/aaqib</a>\n- <a href=\"https://github.com/hi-ammad/ai-chatbot-custom\">hi-ammad/ai-chatbot-custom</a>\n- <a href=\"https://github.com/hi-ammad/ai-gpt-assistant\">hi-ammad/ai-gpt-assistant</a>\n- <a href=\"https://github.com/hi-ammad/apps\">hi-ammad/apps</a>\n- <a href=\"https://github.com/hi-ammad/astro\">hi-ammad/astro</a>\n- <a href=\"https://github.com/hi-ammad/Authentication\">hi-ammad/Authentication</a>\n- <a href=\"https://github.com/hi-ammad/awesome-github-profile-readme\">hi-ammad/awesome-github-profile-readme</a>\n- <a href=\"https://github.com/hi-ammad/awesome-nodejs\">hi-ammad/awesome-nodejs</a>\n- <a href=\"https://github.com/hi-ammad/black-2.0-nextjs\">hi-ammad/black-2.0-nextjs</a>\n- <a href=\"https://github.com/hi-ammad/blog-template\">hi-ammad/blog-template</a>\n- <a href=\"https://github.com/hi-ammad/build-bittorent-challenge-codecraft\">hi-ammad/build-bittorent-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-dns-server-challenge-codecraft\">hi-ammad/build-dns-server-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-git-challenge-codecraft\">hi-ammad/build-git-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-grep-challenge-codecraft\">hi-ammad/build-grep-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-http-server-challenge-codecraft\">hi-ammad/build-http-server-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-interpreter-challenge-codecraft\">hi-ammad/build-interpreter-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-redis-challenge-codecraft\">hi-ammad/build-redis-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-shell-challenge-codecraft\">hi-ammad/build-shell-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/build-sql-challenge-codecraft\">hi-ammad/build-sql-challenge-codecraft</a>\n- <a href=\"https://github.com/hi-ammad/certificate-portfolio\">hi-ammad/certificate-portfolio</a>\n- <a href=\"https://github.com/hi-ammad/chal-dal-final\">hi-ammad/chal-dal-final</a>\n- <a href=\"https://github.com/hi-ammad/chal-dal-ui\">hi-ammad/chal-dal-ui</a>\n- <a href=\"https://github.com/hi-ammad/chaldal_ui\">hi-ammad/chaldal_ui</a>\n- <a href=\"https://github.com/hi-ammad/create-app\">hi-ammad/create-app</a>\n- <a href=\"https://github.com/hi-ammad/detailor_app\">hi-ammad/detailor_app</a>\n- <a href=\"https://github.com/hi-ammad/dotfiles\">hi-ammad/dotfiles</a>\n- <a href=\"https://github.com/hi-ammad/eccomerce-laptop\">hi-ammad/eccomerce-laptop</a>\n- <a href=\"https://github.com/hi-ammad/ecommer-admin-user-nextjs\">hi-ammad/ecommer-admin-user-nextjs</a>\n- <a href=\"https://github.com/hi-ammad/evershop\">hi-ammad/evershop</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/hi-ammad/hack-github-graph/pull/722\">#722</a>: Test PR with Failing Check",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  }
+]
